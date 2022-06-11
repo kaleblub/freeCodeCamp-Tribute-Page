@@ -156,3 +156,7 @@ li {
   text-align: left;
   padding: 5px 10px 2px 5px;
 }
+
+a {
+    color: rgba(44, 62, 80, 1);
+  }
